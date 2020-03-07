@@ -1,0 +1,32 @@
+{
+	"details":{
+		"image":"Desert.jpg",
+		"name":"Amrutha",
+		"email":"lathaamrutha@gmail.com",
+		"number":"70135578899",
+		"address":"vizag"
+	},
+	"carrer":{
+		"info":"position where i can improve my skills"
+	},
+	"education":[
+		{
+		"institute":"view",
+		"degree":"b.tech",
+		"percentage":"85%",
+		"passoutyear":"2022"
+	    },
+        {
+        "institute":"Sri chaitanya",
+		"degree":"inter",
+		"percentage":"89%",
+		"passoutyear":"2018"
+        },
+        {
+        "institute":"master minds",
+		"degree":"10th",
+		"percentage":"95%",
+		"passoutyear":"2016"
+        }
+    ]
+}

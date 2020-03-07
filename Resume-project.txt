@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resume project</title>
+</head>
+<body>
+      <div class="parent">
+      	<div class="child1">
+      	<img src="Desert.jpg">
+      	<h1>Amrutha</h1>
+      	<p>512</p>
+      	<a href="mailto:lathaamrutha.balireddy@gmail.com">lathaamrutha.balireddy@gmail.com</a>
+        <h1>Address</h1>
+        <hr>
+        <p>kurmmannapalem,<br>
+        	vizag,<br>
+        5310035</p>
+        </div>
+        <div class="child2">
+        	<h2>Carrer objective</h2>
+        	<hr>
+        	<p>want a position where i can use my skills effectively</p>
+        	<h2>Educational Qualification</h2>
+            <hr>
+            <table border="1">
+            	<tr>
+            		<th>Institute</th>
+            		<th>Degree</th>
+            		<th>Percentage</th>
+            		<th>pass out</th>
+            	</tr>
+            	<tr>
+            		<td>View college</td>
+            		<td>B.Tech</td>
+            		<td>85</td>
+            		<td>2022</td>
+            	</tr>
+            	<tr>
+            		<td>Sri chaitanya college</td>
+            		<td>Inter</td>
+            		<td>89</td>
+            		<td>2018</td>
+            	</tr>
+            	<tr>
+            		<td>Master minds</td>
+            		<td>10th</td>
+            		<td>95</td>
+            		<td>2016</td>
+            	</tr>
+            </table>
+            <h2>Technical skills</h2>
+            <hr>
+            <h4>Programming languages known</h4>
+            <ul>
+            	<li>C</li>
+            	<li>C++</li>
+            	<li>Python</li>
+            	<li>JAVA</li>
+            </ul>
+            <h4>Databases known</h4>
+            <hr>
+            <ul>
+            	<li>SQL</li>
+            	<li>Oracle</li>
+            	<li>mysql</li>
+            </ul>
+            <h4>Operating systems known</h4>
+            <hr>
+            <ul>
+            	<li>Windows xp,7,8,9,10</li>
+            	<li>Linux</li>
+            	<li></li>
+            </ul>
+        </div>      
+      </div>
+</body>
+</html>
